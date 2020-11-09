@@ -82,7 +82,7 @@
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-maven-plugin</artifactId>
                     <configuration>
-                        <agent>${project.build.directory}/agents/spring-instrument.jar</agent>
+                        <agents>${project.build.directory}/agents/spring-instrument.jar</agents>
                     </configuration>
                 </plugin>
                 <!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.-->
