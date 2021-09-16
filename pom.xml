@@ -6,12 +6,13 @@
         <version>2.4.7</version>
         <relativePath />
     </parent>
+
+    <name>BroadleafCommerce Spring Boot Starter Parent</name>
+    <description>Contains configuration for a Broadleaf Commerce Spring Boot starter project</description>
     <groupId>org.broadleafcommerce</groupId>
     <artifactId>broadleaf-boot-starter-parent</artifactId>
     <version>6.2.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>BroadleafCommerce Spring Boot Starter Parent</name>
-    <description>Contains configuration for a Broadleaf Commerce Spring Boot starter project</description>
 
     <properties>
         <solr.version>8.9.0</solr.version>
@@ -25,31 +26,28 @@
         <url>https://github.com/BroadleafCommerce/BootStarter</url>
         <tag>HEAD</tag>
     </scm>
-
     <repositories>
         <repository>
             <id>releases</id>
             <name>public releases</name>
-            <url>http://nexus.broadleafcommerce.org/nexus/content/groups/community-releases/</url>
+            <url>https://nexus2.broadleafcommerce.org/nexus/content/groups/community-releases/</url>
         </repository>
         <repository>
             <id>snapshots</id>
             <name>public snapshots</name>
-            <url>http://nexus.broadleafcommerce.org/nexus/content/groups/community-snapshots/</url>
+            <url>https://nexus2.broadleafcommerce.org/nexus/content/groups/community-snapshots/</url>
         </repository>
     </repositories>
-
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://nexus.broadleafcommerce.org/nexus/content/repositories/snapshots/</url>
+            <url>https://nexus2.broadleafcommerce.org/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>releases</id>
-            <url>http://nexus.broadleafcommerce.org/nexus/content/repositories/releases/</url>
+            <url>https://nexus2.broadleafcommerce.org/nexus/content/repositories/releases/</url>
         </repository>
     </distributionManagement>
-
     <build>
         <pluginManagement>
             <plugins>
