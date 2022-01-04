@@ -20,7 +20,7 @@
         <hsqldb.version>2.4.0</hsqldb.version>
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <logback.version>1.2.10</logback.version>
-        <broadleaf.bom.version>5.2.23-GA</broadleaf.bom.version>
+        <broadleaf.bom.version>5.2.24-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
     <scm>
