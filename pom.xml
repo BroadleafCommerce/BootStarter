@@ -15,11 +15,14 @@
     <packaging>pom</packaging>
 
     <properties>
-        <hibernate.version>4.1.11.Final</hibernate.version>
-        <solr.version>5.3.1</solr.version>
-        <hsqldb.version>2.4.0</hsqldb.version>
-        <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
+        <solr.version>5.3.2</solr.version>
         <logback.version>1.2.10</logback.version>
+        <jackson.version>2.11.4</jackson.version>
+        <hsqldb.version>2.4.0</hsqldb.version>
+        <hibernate.version>4.1.12.Final</hibernate.version>
+        <thymeleaf.version>3.0.13.RELEASE</thymeleaf.version>
+        <spring.version>4.3.30.RELEASE</spring.version>
+        <spring.security.version>4.2.20.RELEASE</spring.security.version>
         <broadleaf.bom.version>5.2.24-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
