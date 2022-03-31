@@ -16,7 +16,7 @@
     <properties>
         <solr.version>8.9.0</solr.version>
         <spring-framework.version>5.3.18</spring-framework.version>
-        <broadleaf.bom.version>6.2.0.1-SNAPSHOT</broadleaf.bom.version>
+        <broadleaf.bom.version>6.2.0.1-GA</broadleaf.bom.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
     </properties>
 
