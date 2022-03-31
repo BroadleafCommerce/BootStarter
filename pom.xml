@@ -11,7 +11,7 @@
     <description>Contains configuration for a Broadleaf Commerce Spring Boot starter project</description>
     <groupId>org.broadleafcommerce</groupId>
     <artifactId>broadleaf-boot-starter-parent</artifactId>
-    <version>6.2.1.4-GA</version>
+    <version>6.2.1.5-SNAPSHOT</version>
     <packaging>pom</packaging>
     <url>https://www.broadleafcommerce.com</url>
 
@@ -21,14 +21,14 @@
         <spring.version>5.3.11</spring.version>
         <spring-security.version>5.4.9</spring-security.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
-        <broadleaf.bom.version>6.2.1.4-GA</broadleaf.bom.version>
+        <broadleaf.bom.version>6.2.1.5-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
     <scm>
         <connection>scm:git:git@github.com:BroadleafCommerce/BootStarter.git</connection>
         <developerConnection>scm:git:git@github.com:BroadleafCommerce/BootStarter.git</developerConnection>
         <url>https://github.com/BroadleafCommerce/BootStarter</url>
-        <tag>broadleaf-boot-starter-parent-6.2.1.4-GA</tag>
+        <tag>HEAD</tag>
     </scm>
     <repositories>
         <repository>
