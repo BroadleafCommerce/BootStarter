@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.1.18.RELEASE</version>
+        <version>2.3.12.RELEASE</version>
         <relativePath />
     </parent>
 
@@ -19,8 +19,8 @@
         <solr.version>7.7.2</solr.version>
         <jackson.version>2.11.4</jackson.version>
         <hibernate.version>5.3.25.Final</hibernate.version>
-        <spring.version>5.2.22.RELEASE</spring.version>
-        <spring-security.version>5.2.15.RELEASE</spring-security.version>
+        <spring-framework.version>5.2.22.RELEASE</spring-framework.version>
+        <spring-security.version>5.4.10</spring-security.version>
         <logback.version>1.2.10</logback.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.1.12-SNAPSHOT</broadleaf.bom.version>
@@ -73,7 +73,7 @@
                                     <artifactItem>
                                         <groupId>org.springframework</groupId>
                                         <artifactId>spring-instrument</artifactId>
-                                        <version>${spring.version}</version>
+                                        <version>${spring-framework.version}</version>
                                         <outputDirectory>${project.build.directory}/agents</outputDirectory>
                                         <destFileName>spring-instrument.jar</destFileName>
                                     </artifactItem>
@@ -86,7 +86,7 @@
                     <groupId>org.springframework.boot</groupId>
                     <artifactId>spring-boot-maven-plugin</artifactId>
                     <configuration>
-                        <agent>${project.build.directory}/agents/spring-instrument.jar</agent>
+                        <agents>${project.build.directory}/agents/spring-instrument.jar</agents>
                     </configuration>
                 </plugin>
                 <!--This plugin's configuration is used to store Eclipse m2e settings only. It has no influence on the Maven build itself.-->
