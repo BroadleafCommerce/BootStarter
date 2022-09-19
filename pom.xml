@@ -22,7 +22,7 @@
         <hibernate.version>5.6.11.Final</hibernate.version>
         <spring-security.version>5.6.4</spring-security.version>
         <spring-framework.version>5.3.20</spring-framework.version>
-        <thymeleaf.layout.version>3.0.15</thymeleaf.layout.version>
+        <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.3.0-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
