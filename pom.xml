@@ -11,7 +11,7 @@
     <description>Contains configuration for a Broadleaf Commerce Spring Boot starter project</description>
     <groupId>org.broadleafcommerce</groupId>
     <artifactId>broadleaf-boot-starter-parent</artifactId>
-    <version>6.2.4-SNAPSHOT</version>
+    <version>6.2.4.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <url>https://www.broadleafcommerce.com</url>
 
@@ -20,10 +20,10 @@
         <logback.version>1.2.11</logback.version>
         <jackson.version>2.13.2</jackson.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
-        <spring-security.version>5.6.6</spring-security.version>
+        <spring-security.version>5.6.9</spring-security.version>
         <spring-framework.version>5.3.20</spring-framework.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
-        <broadleaf.bom.version>6.2.4-GA</broadleaf.bom.version>
+        <broadleaf.bom.version>6.2.4.1-GA</broadleaf.bom.version>
     </properties>
 
     <scm>
