@@ -23,7 +23,7 @@
         <spring-security.version>5.8.1</spring-security.version>
         <spring-framework.version>5.3.23</spring-framework.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
-        <broadleaf.bom.version>6.2.5-GA</broadleaf.bom.version>
+        <broadleaf.bom.version>6.2.6-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
     <scm>
