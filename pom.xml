@@ -134,7 +134,7 @@
                 <scope>import</scope>
             </dependency>
             <dependency>
-	            <groupId>com.github.zhanhb</groupId>
+	            <groupId>nz.net.ultraq.thymeleaf</groupId>
 	            <artifactId>thymeleaf-layout-dialect</artifactId>
 	            <version>${thymeleaf.layout.version}</version>
 	        </dependency>
