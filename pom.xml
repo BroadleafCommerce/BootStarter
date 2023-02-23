@@ -20,7 +20,7 @@
         <logback.version>1.2.11</logback.version>
         <jackson-bom.version>2.14.2</jackson-bom.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
-        <spring-security.version>5.8.1</spring-security.version>
+        <spring-security.version>5.8.2</spring-security.version>
         <spring-framework.version>5.3.25</spring-framework.version>
         <thymeleaf.layout.version>3.0.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.2.6-SNAPSHOT</broadleaf.bom.version>
