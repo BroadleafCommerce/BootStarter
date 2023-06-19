@@ -19,7 +19,7 @@
         <solr.version>8.11.2</solr.version>
         <logback.version>1.4.7</logback.version>
         <jackson.version>2.14.2</jackson.version>
-        <hibernate.version>6.2.3.Final</hibernate.version>
+        <hibernate.version>6.2.5.Final</hibernate.version>
         <spring-security.version>6.0.3</spring-security.version>
         <spring-framework.version>6.0.8</spring-framework.version>
         <thymeleaf.layout.version>3.2.0</thymeleaf.layout.version>
