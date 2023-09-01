@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.7.14</version>
+        <version>2.7.15</version>
         <relativePath />
     </parent>
 
@@ -19,7 +19,7 @@
         <solr.version>8.11.2</solr.version>
         <jackson-bom.version>2.15.2</jackson-bom.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
-        <spring-security.version>5.8.5</spring-security.version>
+        <spring-security.version>5.8.6</spring-security.version>
         <spring-framework.version>5.3.29</spring-framework.version>
         <thymeleaf.layout.version>3.0.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.2.8-SNAPSHOT</broadleaf.bom.version>
