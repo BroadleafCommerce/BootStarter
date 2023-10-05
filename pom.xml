@@ -23,7 +23,7 @@
         <hibernate.version>5.2.18.Final</hibernate.version>
         <spring.version>5.0.20.RELEASE</spring.version>
         <spring-security.version>5.0.19.RELEASE</spring-security.version>
-        <broadleaf.bom.version>6.0.20-SNAPSHOT</broadleaf.bom.version>
+        <broadleaf.bom.version>6.0.20-GA</broadleaf.bom.version>
         <log4j2.version>2.18.0</log4j2.version>
     </properties>
 
