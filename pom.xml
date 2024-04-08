@@ -19,8 +19,8 @@
         <solr.version>8.11.2</solr.version>
         <jackson-bom.version>2.15.2</jackson-bom.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
-        <spring-security.version>5.8.6</spring-security.version>
-        <spring-framework.version>5.3.31</spring-framework.version>
+        <spring-security.version>5.8.11</spring-security.version>
+        <spring-framework.version>5.3.33</spring-framework.version>
         <thymeleaf.layout.version>3.0.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.2.10-SNAPSHOT</broadleaf.bom.version>
     </properties>
