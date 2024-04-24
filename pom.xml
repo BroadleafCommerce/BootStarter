@@ -3,7 +3,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.5</version>
+        <version>3.1.11</version>
         <relativePath />
     </parent>
 
@@ -16,11 +16,11 @@
     <url>https://www.broadleafcommerce.com</url>
 
     <properties>
-        <solr.version>9.3.2</solr.version>
-        <jackson-bom.version>2.15.3</jackson-bom.version>
+        <solr.version>9.5.0</solr.version>
+        <jackson-bom.version>2.16.2</jackson-bom.version>
         <hibernate.version>6.2.13.Final</hibernate.version>
-        <spring-security.version>6.1.5</spring-security.version>
-        <spring-framework.version>6.0.13</spring-framework.version>
+        <spring-security.version>6.1.9</spring-security.version>
+        <spring-framework.version>6.0.19</spring-framework.version>
         <thymeleaf.layout.version>3.3.0</thymeleaf.layout.version>
         <broadleaf.bom.version>7.0.1-SNAPSHOT</broadleaf.bom.version>
     </properties>
