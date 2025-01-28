@@ -19,7 +19,7 @@
         <solr.version>9.5.0</solr.version>
         <jackson-bom.version>2.17.2</jackson-bom.version>
         <commons-lang3.version>3.16.0</commons-lang3.version>
-        <hibernate.version>6.2.31.Final</hibernate.version>
+        <hibernate.version>6.6.5.Final</hibernate.version>
         <spring-security.version>6.1.9</spring-security.version>
         <spring-framework.version>6.0.23</spring-framework.version>
         <thymeleaf.layout.version>3.3.0</thymeleaf.layout.version>
