@@ -17,6 +17,7 @@
 
     <properties>
         <solr.version>9.5.0</solr.version>
+        <mysql.version>9.2.0</mysql.version>
         <quartz.version>2.5.0</quartz.version>
         <logback.version>1.5.17</logback.version>
         <jackson-bom.version>2.18.2</jackson-bom.version>
