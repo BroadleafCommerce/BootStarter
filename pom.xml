@@ -17,10 +17,11 @@
 
     <properties>
         <solr.version>7.7.3</solr.version>
+        <quartz.version>2.4.0</quartz.version>
         <logback.version>1.2.13</logback.version>
         <jackson-bom.version>2.16.1</jackson-bom.version>
-        <hibernate.version>5.3.25.Final</hibernate.version>
-        <spring-framework.version>5.2.24.RELEASE</spring-framework.version>
+        <hibernate.version>5.3.37.Final</hibernate.version>
+        <spring-framework.version>5.2.25.RELEASE</spring-framework.version>
         <spring-security.version>5.4.11</spring-security.version>
         <thymeleaf.layout.version>2.3.0</thymeleaf.layout.version>
         <broadleaf.bom.version>6.1.17-SNAPSHOT</broadleaf.bom.version>
