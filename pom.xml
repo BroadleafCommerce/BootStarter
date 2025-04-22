@@ -18,7 +18,9 @@
     <properties>
         <solr.version>8.11.4</solr.version>
         <quartz.version>2.4.0</quartz.version>
+        <mysql.version>9.2.0</mysql.version>
         <tomcat.version>9.0.104</tomcat.version>
+        <logback.version>1.2.13</logback.version>
         <jackson-bom.version>2.18.3</jackson-bom.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
         <spring-security.version>5.8.16</spring-security.version>
