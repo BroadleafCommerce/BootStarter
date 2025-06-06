@@ -11,7 +11,7 @@
     <description>Contains configuration for a Broadleaf Commerce Spring Boot starter project</description>
     <groupId>org.broadleafcommerce</groupId>
     <artifactId>broadleaf-boot-starter-parent</artifactId>
-    <version>7.0.5-SNAPSHOT</version>
+    <version>7.0.5-HIB-56-SNAPSHOT</version>
     <packaging>pom</packaging>
     <url>https://www.broadleafcommerce.com</url>
 
@@ -28,7 +28,7 @@
         <spring-security.version>6.1.9</spring-security.version>
         <spring-framework.version>6.0.23</spring-framework.version>
         <thymeleaf.layout.version>3.3.0</thymeleaf.layout.version>
-        <broadleaf.bom.version>7.0.5-SNAPSHOT</broadleaf.bom.version>
+        <broadleaf.bom.version>7.0.5-HIB-56-SNAPSHOT</broadleaf.bom.version>
     </properties>
 
     <scm>
