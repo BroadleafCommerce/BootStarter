@@ -28,7 +28,7 @@
         <spring-security.version>6.1.9</spring-security.version>
         <spring-framework.version>6.0.23</spring-framework.version>
         <thymeleaf.layout.version>3.3.0</thymeleaf.layout.version>
-        <broadleaf.bom.version>7.0.5-HIB-56-M3</broadleaf.bom.version>
+        <broadleaf.bom.version>7.0.5-HIB-56-M4</broadleaf.bom.version>
     </properties>
 
     <scm>
