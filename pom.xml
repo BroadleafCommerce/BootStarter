@@ -35,7 +35,7 @@
         <connection>scm:git:git@github.com:BroadleafCommerce/BootStarter.git</connection>
         <developerConnection>scm:git:git@github.com:BroadleafCommerce/BootStarter.git</developerConnection>
         <url>https://github.com/BroadleafCommerce/BootStarter</url>
-        <tag>HEAD</tag>
+        <tag>broadleaf-boot-starter-parent-7.0.5-HIB-56-M4</tag>
     </scm>
     <repositories>
         <repository>
