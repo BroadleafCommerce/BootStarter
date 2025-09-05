@@ -19,10 +19,12 @@
         <solr.version>8.11.4</solr.version>
         <quartz.version>2.4.0</quartz.version>
         <mysql.version>9.2.0</mysql.version>
-        <tomcat.version>9.0.104</tomcat.version>
+        <tomcat.version>9.0.108</tomcat.version>
         <logback.version>1.2.13</logback.version>
+        <snakeyaml.version>2.5</snakeyaml.version>
         <jackson-bom.version>2.18.3</jackson-bom.version>
         <hibernate.version>5.4.33.Final</hibernate.version>
+        <hibernate-validator.version>6.2.5.Final</hibernate-validator.version>
         <spring-security.version>5.8.16</spring-security.version>
         <spring-framework.version>5.3.39</spring-framework.version>
         <thymeleaf.layout.version>3.0.0</thymeleaf.layout.version>
