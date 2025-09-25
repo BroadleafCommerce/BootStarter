@@ -27,7 +27,7 @@
         <hibernate.version>6.2.31.Final</hibernate.version>
         <spring-security.version>6.5.3</spring-security.version>
         <spring-ldap-core.version>3.3.3</spring-ldap-core.version>
-        <spring-framework.version>6.2.10</spring-framework.version>
+        <spring-framework.version>6.2.11</spring-framework.version>
         <thymeleaf.layout.version>3.3.0</thymeleaf.layout.version>
         <broadleaf.bom.version>7.0.6-SNAPSHOT</broadleaf.bom.version>
     </properties>
