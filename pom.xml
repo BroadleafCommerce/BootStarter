@@ -16,7 +16,7 @@
     <url>https://www.broadleafcommerce.com</url>
 
     <properties>
-        <solr.version>9.9.0</solr.version>
+        <solr.version>9.10.1</solr.version>
         <quartz.version>2.5.2</quartz.version>
         <jackson-bom.version>3.1.0</jackson-bom.version>
         <thymeleaf.version>3.1.4.RELEASE</thymeleaf.version>
