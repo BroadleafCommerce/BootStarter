@@ -29,7 +29,7 @@
         <spring-ldap-core.version>3.3.6</spring-ldap-core.version>
         <spring-framework.version>6.2.18</spring-framework.version>
         <thymeleaf.layout.version>4.0.1</thymeleaf.layout.version>
-        <broadleaf.bom.version>7.0.7-SNAPSHOT</broadleaf.bom.version>
+        <broadleaf.bom.version>7.0.7-GA</broadleaf.bom.version>
     </properties>
 
     <scm>
