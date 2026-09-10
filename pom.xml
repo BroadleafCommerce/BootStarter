@@ -18,12 +18,12 @@
     <properties>
         <solr.version>9.10.1</solr.version>
         <quartz.version>2.5.2</quartz.version>
-        <jackson-bom.version>3.1.4</jackson-bom.version>
+        <jackson-bom.version>3.2.2</jackson-bom.version>
         <thymeleaf.version>3.1.4.RELEASE</thymeleaf.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
-        <hibernate.version>7.4.6.Final</hibernate.version>
-        <spring-security.version>7.0.6</spring-security.version>
-        <spring-framework.version>7.0.8</spring-framework.version>
+        <hibernate.version>7.4.7.Final</hibernate.version>
+        <spring-security.version>7.0.7</spring-security.version>
+        <spring-framework.version>7.0.9</spring-framework.version>
         <thymeleaf.layout.version>4.0.1</thymeleaf.layout.version>
         <broadleaf.bom.version>7.1.0-SNAPSHOT</broadleaf.bom.version>
     </properties>
