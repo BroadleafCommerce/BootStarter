@@ -20,7 +20,7 @@
         <quartz.version>2.5.2</quartz.version>
 		<tomcat.version>11.0.25</tomcat.version>
         <jackson-bom.version>3.1.5</jackson-bom.version>
-        <thymeleaf.version>3.1.4.RELEASE</thymeleaf.version>
+        <thymeleaf.version>3.1.5.RELEASE</thymeleaf.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
         <hibernate.version>7.4.7.Final</hibernate.version>
         <spring-security.version>7.0.7</spring-security.version>
